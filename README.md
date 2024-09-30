@@ -18,7 +18,8 @@ Cinemille è un'applicazione per la gestione di un cinema, che permette agli ute
 
 ## Diagramma UML delle Classi
 
-![Diagramma UML](umldi cinemille.png)
+![Diagramma UML]![umldi cinemille](https://github.com/user-attachments/assets/90863a99-add8-4e08-a1a4-e8d67a966cbf)
+
 
 ### Diagramma dei Casi d'Uso
 ```
