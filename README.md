@@ -103,4 +103,4 @@ curl -X GET http://localhost:8080/api/schedules?start=2024-01-01&end=2024-12-31 
     -H "Authorization: Bearer <token>"
 ```
 
-## **Daniele Giovane**
+### **Daniele Giovane**
